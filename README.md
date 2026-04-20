@@ -4,6 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Michal-Pinchasi&style=flat" alt="Profile Views">
 </p>
 
+
 I am a Software Engineering student and a discharged soldier, specializing in Full-Stack development with a passion for advanced mathematics and complex system architecture. I enjoy solving algorithmic challenges and building robust applications using C#, Node.js, and modern web technologies.
 
 ## 🛠 Tech Stack
