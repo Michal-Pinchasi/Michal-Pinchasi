@@ -34,7 +34,10 @@ I am a Software Engineering student and a discharged soldier, specializing in Fu
 - GitHub: [Michal-Pinchasi](https://github.com/Michal-Pinchasi)
 - LinkedIn: [Your Profile Link Here]
 
+---
+
 ## 📈 My GitHub Activity
 
-![Activity Radar](https://github-readme-stats.vercel.app/api?username=Michal-Pinchasi&show_icons=true&theme=city_lights)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Pinchasi&layout=compact&theme=city_lights)
+![Summary Card](https://raw.githubusercontent.com/Michal-Pinchasi/Michal-Pinchasi/main/profile-summary-card-output/city_lights/0-profile-details.svg)
+
+![Activity Graph](https://raw.githubusercontent.com/Michal-Pinchasi/Michal-Pinchasi/main/profile-summary-card-output/city_lights/4-productive-time.svg)
