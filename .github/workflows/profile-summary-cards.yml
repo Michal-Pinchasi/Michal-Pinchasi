@@ -3,7 +3,7 @@ name: GitHub-Profile-Summary-Cards
 on:
   schedule: # מריץ את העדכון כל 24 שעות
     - cron: "0 0 * * *"
-  workflow_dispatch: # מאפשר לך להריץ את זה ידנית מתי שבא לך
+  workflow_dispatch: # מאפשר להריץ ידנית
 
 jobs:
   build:
@@ -12,7 +12,7 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
-      - uses: vn7n24fzkq/github-profile-summary-cards@v2.3.1
+      - uses: vn7n24fzkq/github-profile-summary-cards@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
