@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Michal Pinchasi</h1>
 
-<!--
-**Michal-Pinchasi/Michal-Pinchasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Michal-Pinchasi&style=flat" alt="Profile Views">
+</p>
 
-Here are some ideas to get you started:
+I am a Software Engineering student and a discharged soldier, specializing in Full-Stack development with a passion for advanced mathematics and complex system architecture. I enjoy solving algorithmic challenges and building robust applications using C#, Node.js, and modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### Core Languages
+![Core Languages](https://skillicons.dev/icons?i=cs,python,js,cpp,c)
+
+### Web & Backend
+![Web & Backend](https://skillicons.dev/icons?i=nodejs,mongodb,express,html,css,dotnet)
+
+### Systems & Tools
+![Systems & Tools](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman,linux)
+
+---
+
+## 🚀 Key Projects:
+
+* [**Business Management System**](https://github.com/Michal-Pinchasi)
+  A Client-Server messaging and management system built with WPF and WCF, focusing on OOP principles.
+
+* [**Group Buying Platform**](https://github.com/Michal-Pinchasi)
+  A marketplace web application built with Node.js, Express, and MongoDB.
+
+* [**SkyStore**](https://github.com/Michal-Pinchasi)
+  A flight booking system developed using Vanilla JavaScript, Web Components, and LocalStorage.
+
+## 🔗 Connect with me:
+- GitHub: [Michal-Pinchasi](https://github.com/Michal-Pinchasi)
+- LinkedIn: [Your Profile Link Here]
+
+## 📈 My GitHub Activity
+
+![Activity Radar](https://github-readme-stats.vercel.app/api?username=Michal-Pinchasi&show_icons=true&theme=city_lights)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Pinchasi&layout=compact&theme=city_lights)
