@@ -32,7 +32,7 @@ I am a Software Engineering student and a discharged soldier, specializing in Fu
 
 ## 🔗 Connect with me:
 - GitHub: [Michal-Pinchasi](https://github.com/Michal-Pinchasi)
-- LinkedIn: [Your Profile Link Here]
+- Gmail: michalp567@gmail.com
 
 ---
 
