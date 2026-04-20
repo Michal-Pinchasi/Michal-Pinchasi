@@ -12,13 +12,13 @@ I am a Software Engineering student and a discharged soldier, specializing in Fu
 ![Core Languages](https://skillicons.dev/icons?i=cs,python,js,cpp,c,java,html,css,ts)
 
 ### Web & Backend
-![Web & Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,dotnet,angular,react,bootstrap,tailwind)
+![Web & Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,dotnet,angular,react)
 
 ### AI, Data Science & Math
-![AI & Data Science](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn,matlab)
+![AI & Data Science](https://skillicons.dev/icons?i=opencv,pytorch,sklearn,matlab)
 
 ### Systems, Tools & Architecture
-![Systems & Tools](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman,linux,docker,arduino,powershell,bash,svg)
+![Systems & Tools](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman,linux,powershell,svg)
 
 ---
 
