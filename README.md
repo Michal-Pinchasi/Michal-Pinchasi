@@ -39,4 +39,3 @@ I am a Software Engineering student and a discharged soldier, specializing in Fu
 
 ![GitHub Metrics](https://raw.githubusercontent.com/Michal-Pinchasi/Michal-Pinchasi/main/github-metrics.svg)
 
-![Activity Graph](https://raw.githubusercontent.com/Michal-Pinchasi/Michal-Pinchasi/main/profile-summary-card-output/city_lights/4-productive-time.svg)
