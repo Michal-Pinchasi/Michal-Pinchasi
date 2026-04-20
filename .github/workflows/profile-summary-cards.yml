@@ -1,9 +1,9 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  schedule: # מריץ את העדכון כל 24 שעות
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # מאפשר להריץ ידנית
+  workflow_dispatch:
 
 jobs:
   build:
@@ -12,9 +12,10 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
-      - uses: vn7n24fzkq/github-profile-summary-cards@v2
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: lowlighter/metrics@latest
         with:
-          username: Michal-Pinchasi
-          theme: city_lights
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Michal-Pinchasi
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Jerusalem
