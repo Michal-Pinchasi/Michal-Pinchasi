@@ -9,7 +9,7 @@ I am a Software Engineering student and a discharged soldier, specializing in Fu
 ## 🛠 Tech Stack
 
 ### Core Languages
-![Core Languages](https://skillicons.dev/icons?i=cs,python,js,cpp,c,java,html,css,ts)
+![Core Languages](https://skillicons.dev/icons?i=cs,python,js,cpp,java,html,css,ts)
 
 ### Web & Backend
 ![Web & Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,dotnet,angular,react)
